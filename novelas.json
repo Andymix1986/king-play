@@ -1,1 +1,22 @@
-{"clave":"andymix1986longe","version":"1.0.0","novelas":[{"titulo":"Avenida Brasil","id":"AVBR","url":"https:\/\/cdn-novflix.com\/storage5\/AVBR\/AVBR-","imagen":"https:\/\/images2.imgbox.com\/b5\/c2\/86Tvteun_o.jpg","tipo":"LOC","total":"179"}]}
+{
+    "clave": "andymix1986longe",
+    "version": "1.0.0",
+    "novelas": [
+        {
+            "titulo": "Avenida Brasil",
+            "id": "AVBR",
+            "url": "https:\/\/cdn-novflix.com\/storage5\/AVBR\/AVBR-",
+            "imagen": "https:\/\/images2.imgbox.com\/b5\/c2\/86Tvteun_o.jpg",
+            "tipo": "LOC",
+            "total": "179"
+        },
+        {
+            "titulo": "Yo Soy Franky",
+            "id": "FRAN",
+            "url": "https:\/\/cdn-novflix.com\/storage5\/AVBR\/AVBR-",
+            "imagen": "https:\/\/andymix1986.github.io\/player_FRANKY\/player_FRAN.html",
+            "tipo": "EXT",
+            "total": "1"
+        }
+    ]
+}
